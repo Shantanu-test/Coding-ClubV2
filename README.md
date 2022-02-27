@@ -21,3 +21,4 @@ o = ('x(2)= ' + str(m))
 print(n)
 print(o)
 print(n)+print(o)
+wooo wooo
